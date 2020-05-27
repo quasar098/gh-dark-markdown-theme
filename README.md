@@ -1,3 +1,3 @@
-`printy` pages use Github-Flavored Markdown, scaled to the width of the page.
+`printy` uses [Github-Flavored Markdown](https://github.com/sindresorhus/github-markdown-css), scaled to the width of the page.
 
-To use it with Github Pages, add `remote-theme: maxwellpollack/printy` to your `_config.yaml`.
+To use it in **Github Pages**, add `remote-theme: maxwellpollack/printy` to your `_config.yaml`.
